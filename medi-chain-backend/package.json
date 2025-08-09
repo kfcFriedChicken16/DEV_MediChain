@@ -1,0 +1,31 @@
+{
+  "name": "medi-chain-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.6",
+    "@nomiclabs/hardhat-ethers": "^2.2.3",
+    "@types/yargs": "^17.0.33",
+    "ethers": "^5.8.0",
+    "hardhat": "^2.25.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.8.3",
+    "yargs": "^18.0.0"
+  },
+  "overrides": {
+    "glob": "^9.0.0"
+  },
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.3.0",
+    "dotenv": "^17.0.0",
+    "ipfs-http-client": "^60.0.1",
+    "picocolors": "^1.1.1"
+  }
+}

@@ -1,0 +1,7 @@
+[33m401d283[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Initial commit of medichain frontend
+[33m777d356[m first commit
+[33m5c6f42d[m Update README.md
+[33m4c9209b[m Update README with comprehensive documentation and improved structure
+[33m1380f22[m Fix TypeScript error in records page - add recordTitle to interface
+[33m91df25b[m Initial commit - Complete MediChain medical records system with IPFS integration
+[33m7d4c853[m Initial commit from Create Next App

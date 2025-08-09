@@ -1,0 +1,16 @@
+{
+  "patientAddress": "0xf39Fd6e51aad88F6F4ce6aB8827279cffFb92266",
+  "recordType": "Blood Test",
+  "date": "2025-07-22T15:35:15.984Z",
+  "provider": "0xBcd4042DE499D14e55001CcbB24a551F3b954096",
+  "doctorName": "Dr. Smith",
+  "facilityName": "Demo Hospital",
+  "createdAt": "2025-07-22T15:35:15.984Z",
+  "metadata": {
+    "recordFormat": "v1.0",
+    "encryptionMethod": "AES-256",
+    "accessControl": "blockchain-based"
+  },
+  "results": "All values within normal range. Glucose: 95 mg/dL, Cholesterol: 180 mg/dL",
+  "notes": "Patient is healthy. Recommend annual checkup."
+}
